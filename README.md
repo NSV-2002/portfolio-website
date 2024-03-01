@@ -1,5 +1,5 @@
 # Nilesh's Portfolio
-#link:- <a href="https://nilesh-vedpathak.netlify.app/">portfolio website</a>
+#link:- <a href="https://nilesh-vedpathak.netlify.app/" target="blank">portfolio website</a>
 
 Welcome to my portfolio! This repository showcases some of my projects and accomplishments.
 ## Skills
